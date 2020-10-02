@@ -1,6 +1,6 @@
 # oneinfra terraform worker modules
 
-This repository contains a set of terraform modules to easy create [oneinfra](github.com/oneinfra) Kubernetes worker in multiple cloud environments.
+This repository contains a set of terraform modules to easy create [oneinfra](https://github.com/oneinfra) Kubernetes worker in multiple cloud environments.
 
 ## Modules
 
